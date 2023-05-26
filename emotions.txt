@@ -1,4 +1,4 @@
- 'victimized': 'cheated'.
+ 'victimized': 'cheated',
  'accused': 'cheated',
  'acquitted': 'singled out',
  'adorable': 'loved',
